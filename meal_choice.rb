@@ -4,5 +4,4 @@
 
 def meal_choice course="meat"
   course
-  
 end
